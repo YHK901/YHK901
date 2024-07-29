@@ -1,6 +1,6 @@
 # About Me
 
-# Skills
+## Skills
 
 ## Project
 **Project 1: Prediction/Forecast of Carbon Emissions** <br>
