@@ -14,7 +14,7 @@ Github link : https://github.com/YHK901/AdTest-Reporting-Dashboard<br>
 <br><br>
 
 **Project 3: E-Commerce & Retail Inventory Dashboard** <br>
-Github link : [https://github.com/YHK901/Tableau_eCommerce-Retail-Inventory-Dashboard<br>
+Github link : https://github.com/YHK901/Tableau_eCommerce-Retail-Inventory-Dashboard<br>
 - Dataset : Kaggle E-Commerce & Retail Dataset
 - Aim : Visualise sales, purchases, and inventory data of an e-Commerce & retail company for SCM analysis
 - Tech Stack : `Python`, `Tableau`
