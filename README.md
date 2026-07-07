@@ -1,7 +1,3 @@
-# About Me
-
-## Skills
-
 ## Project
 **Project 1: Prediction/Forecast of Carbon Emissions** <br>
 Github link : https://github.com/YHK901/Global-Data-on-Sustainable-Energy-2000-2020- <br>
@@ -14,5 +10,11 @@ Github link : https://github.com/YHK901/Global-Data-on-Sustainable-Energy-2000-2
 Github link : https://github.com/YHK901/AdTest-Reporting-Dashboard<br>
 - Dataset : Taboola API data & internal DB data
 - Aim : Visualise test metrics with bootstrapped mean and confidence interval and automate reporting
-- Tech Stack : Python Dash, Dash AG Grid, Plotly
+- Tech Stack : `Python`, `Dash`, `Dash AG Grid`, `Plotly`
+<br><br>
 
+**Project 3: E-Commerce & Retail Inventory Dashboard** <br>
+Github link : [https://github.com/YHK901/Tableau_eCommerce-Retail-Inventory-Dashboard<br>
+- Dataset : Kaggle E-Commerce & Retail Dataset
+- Aim : Visualise sales, purchases, and inventory data of an e-Commerce & retail company for SCM analysis
+- Tech Stack : `Python`, `Tableau`
